@@ -3,7 +3,7 @@
 * 微信公众号：linguiseb
 * Blog：https://blog.xiaoliwu.com
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xl520134&show_icons=true&icon_color=CE1D2D&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=xl520134&show_icons=true&theme=tokyonight&icon_color=CE1D2D&bg_color=ffffff&hide_title=true" />
 
 
 <!--
