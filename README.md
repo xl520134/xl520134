@@ -1,6 +1,8 @@
-## Hi there 👋
-![描述信息](url)
-![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true&theme=tokyonight)
+## 我是小鹿
+
+
+![xl520134 GitHub Stats](https://github-readme-stats.vercel.app/api?username=xl520134&show_icons=true&count_private=true&theme=tokyonight)
+
 
 
 <!--
