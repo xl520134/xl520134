@@ -1,5 +1,7 @@
 # 我是小鹿
 
+- 微信公众号：linguiseb
+- Blog：https://blog.xiaoliwu.com
 
 ![xl520134 GitHub Stats](https://github-readme-stats.vercel.app/api?username=xl520134&show_icons=true&count_private=true&theme=tokyonight)
 
